@@ -5,3 +5,7 @@ this is first text.
 
 git remote add origin git@github.com:tangyoung008/learngit.git
 git push -u origin master 
+
+
+git push origin master
+
